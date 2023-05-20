@@ -1,0 +1,23 @@
+{
+  "name": "server_in_node",
+  "version": "1.0.0",
+  "description": "my hello node ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anandkumar190/first_node_project.git"
+  },
+  "keywords": [
+    "learn",
+    "code"
+  ],
+  "author": "Anand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anandkumar190/first_node_project/issues"
+  },
+  "homepage": "https://github.com/anandkumar190/first_node_project#readme"
+}
