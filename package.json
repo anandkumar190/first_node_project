@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/anandkumar190/first_node_project/issues"
   },
-  "homepage": "https://github.com/anandkumar190/first_node_project#readme"
+  "homepage": "https://github.com/anandkumar190/first_node_project#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "nodemon": "^2.0.22"
+  }
 }
